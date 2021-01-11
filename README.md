@@ -1,4 +1,4 @@
-# Water: 云研发架构模式
+# Water: [云研发](https://github.com/phodal/cloud-dev)架构模式
 
 ![Architecture](arts/water.svg)
 
