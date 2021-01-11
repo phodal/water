@@ -1,5 +1,7 @@
 # Water: [云研发](https://github.com/phodal/cloud-dev)架构模式
 
+太长不读版
+
 ![Architecture](arts/water.svg)
 
 实时开发环境：即开发环境由 AST 呈现的编辑器/IDE + 浏览器组成。
@@ -21,6 +23,15 @@
  - 云原生 Dev 云：
     - Dev Online。云原生的本地开发环境，即开发即部署
     - Prod Readly。随时可部署 + 上线
+
+
+微信群：
+
+![云研发](qrcode.jpg)
+
+如果二维码过期，请添加 `phodal02` 为好友，注明：`云研发`。
+
+# 云研发架构模式
 
 机缘巧合之下，我看了解到了腾讯新出的 [Nocalhost](https://github.com/nocalhost/nocalhost) 工具 —— 一个云原生的云开发环境工具。就个人而言，看到这个工具的第一眼我是非常兴奋的。终于，我的云研发理论体系（《[云研发：研发即代码](https://github.com/phodal/cloud-dev)》）又迎来一个历史时刻。
 
