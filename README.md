@@ -153,3 +153,17 @@ PS：我将会用一篇新的文章来介绍这种模式。
  - 《万物代码化：从低代码、云开发到云研发》：https://www.phodal.com/blog/codify/
  - 《无代码编程》：https://www.phodal.com/blog/low-code-programming/
  - 《Charj —— 代码的代码化语言》：https://www.phodal.com/blog/charj-lang/
+
+# 相关项目
+
+## Darklang 语言
+
+[https://darklang.com/](https://darklang.com/) is a new way of building serverless backends. Just code your backend, with no infra, framework or deployment nightmares. Build APIs, CRUD apps, internal tools and bots - whatever your backend needs.
+
+GitHub： https://github.com/darklang/dark
+
+examples:
+
+```
+
+```
