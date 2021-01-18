@@ -1,5 +1,7 @@
 # Water: [云研发](https://github.com/phodal/cloud-dev)架构模式
 
+微信群：请添加 `phodal02` 为好友，注明：`云研发`。
+
 太长不读版
 
 ![Architecture](arts/water.svg)
@@ -24,12 +26,6 @@
     - Dev Online。云原生的本地开发环境，即开发即部署
     - Prod Readly。随时可部署 + 上线
 
-
-微信群：
-
-![云研发](qrcode.jpg)
-
-如果二维码过期，请添加 `phodal02` 为好友，注明：`云研发`。
 
 # 云研发架构模式
 
